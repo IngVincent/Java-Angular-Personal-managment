@@ -1,0 +1,5 @@
+Please Read the Instructions: 
+
+Step 1: import the SQL DataBase (root/root are the default username/password of the backend, feel free to change it)
+Step 2: Open the backend and run the spring project (inside eclipse right click above the project folder and select run spring)
+Step 3: With a terminal move inside the folder "gestion-empleados-frontend" and run "ng serve -o"
